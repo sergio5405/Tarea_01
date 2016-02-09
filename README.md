@@ -5,3 +5,5 @@
 Clona el proyecto y crea en esta carpeta tu solución a la Tarea. Al finalizar haz commit-push y envía un Pull Request para que te califique.
 
 Consulta el documento anexo que describe el problema a resolver.
+
+### Fecha de entrega: Jueves 11 de febrero, 2016.
